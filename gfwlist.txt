@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: /E65uwsb/sI6jMRmj3yU0g
+! Checksum: iNMRkBtLP3/xK4yE2GzZOA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 08 Oct 2017 22:45:11 -0400
+! Last Modified: Sun, 08 Oct 2017 23:22:32 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -191,6 +191,7 @@ share.dmhy.org
 ||tapanwap.com
 ||target.com
 @@||intl.target.com
+||updates.tdesktop.com
 ||telegram.me
 ||thebodyshop-usa.com
 ||tma.co.jp
@@ -3568,6 +3569,7 @@ inxian.com
 ||inxian.com
 ipalter.com
 !--||ipcf.org.tw
+.ipfire.org
 ||iphone4hongkong.com
 ||iphonehacks.com
 ||iphonetaiwan.org
@@ -3762,6 +3764,7 @@ juziyue.com
 ||kannewyork.com
 .kanshifang.com
 ||kanshifang.com
+||kantie.org
 kanzhongguo.com
 kanzhongguo.eu
 .kaotic.com
