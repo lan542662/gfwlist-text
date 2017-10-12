@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: /vp78g1x9ssYTpz9d676ww
+! Checksum: OGZRJNcXOVGvUzfjKsXNAg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 11 Oct 2017 10:45:07 -0400
+! Last Modified: Thu, 12 Oct 2017 02:28:55 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
@@ -236,6 +236,7 @@ share.dmhy.org
 ||agro.hk
 ||boomssr.com
 ||line-scdn.net
+||jiji.com
 ||pixiv.net
 
 !----------------Frauds & Scams-----------------
@@ -5230,6 +5231,7 @@ shadow.ma
 .shadowsocks.asia
 ||www.shadowsocks.com
 .shadowsocks.com
+||shadowsocks.com.hk
 .shadowsocks.org
 ||shadowsocks.org
 ||shadowsocks-r.com
@@ -5980,7 +5982,9 @@ tuitwit.com
 !--@@||media.tumblr.com
 !--@@||static.tumblr.com
 !--@@||www.tumblr.com
-|http://blog.soylent.com/
+|http://cosmic.monar.ch
+||slutmoonbeam.com
+|http://blog.soylent.com
 
 .tv.com
 |http://tv.com
@@ -6040,6 +6044,8 @@ tweetree.com
 ||tweetwally.com
 tweetymail.com
 ||twelve.today
+.tweez.net
+|http://tweez.net
 ||twftp.org
 twibase.com
 .twibble.de
@@ -6983,6 +6989,7 @@ zhengjian
 @@||csi.gstatic.com
 @@||fonts.gstatic.com
 @@||haosou.com
+@@||ip.cn
 @@||jd.com
 @@||jike.com
 @@|http://translate.google.cn
