@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: dNuX6gH562y16jhovlBfgA
+! Checksum: qWq1YQNTB0xd8nlUDyksRw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 11 Nov 2017 19:36:11 -0500
+! Last Modified: Wed, 15 Nov 2017 03:21:13 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -544,6 +544,7 @@ cdninstagram.com
 ||api.ai
 .appspot.com
 ||appspot.com
+||autodraw.com
 ||blog.google
 ||blogblog.com
 blogspot.com
@@ -984,6 +985,7 @@ zhao.1984.city
 .21pron.com
 21sextury.com
 .228.net.tw
+||233abc.com
 ||24hrs.ca
 24smile.org
 2lipstube.com
@@ -1043,6 +1045,7 @@ taiwannation.50webs.com
 .9001700.com
 |http://908taiwan.org/
 ||91porn.com
+||91vps.club
 .92ccav.com
 .991.com
 |http://991.com
@@ -1408,8 +1411,9 @@ bigfools.com
 .bignews.org
 ||bignews.org
 .bigsound.org
+.biliworld.com
+|http://biliworld.com
 |http://billypan.com/wiki
-||billywr.com
 .binux.me
 ai.binwang.me/couplet
 bipic.net
@@ -2664,6 +2668,7 @@ hk.frienddy.com/hk
 .ftchinese.com/channel/video
 .ftchinese.com/story/00102753
 .ftchinese.com/story/001026807
+.ftchinese.com/story/001027429
 .ftchinese.com/story/001030341
 .ftchinese.com/story/001030502
 .ftchinese.com/story/001030803
@@ -2712,6 +2717,7 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001042272
 .ftchinese.com/story/001042280
 .ftchinese.com/story/001043152
+.ftchinese.com/story/001043428
 .ftchinese.com/story/001043534
 .ftchinese.com/story/001043680
 .ftchinese.com/story/001043702
@@ -2752,12 +2758,15 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001051027
 .ftchinese.com/story/001051161
 .ftchinese.com/story/001051372
+.ftchinese.com/story/001051479
 .ftchinese.com/story/001052138
 .ftchinese.com/story/001052525
 .ftchinese.com/story/001052549
 .ftchinese.com/story/001052701
 .ftchinese.com/story/001052965
+.ftchinese.com/story/001053149
 .ftchinese.com/story/001053150
+.ftchinese.com/story/001053200
 .ftchinese.com/story/001053425
 .ftchinese.com/story/001053526
 .ftchinese.com/story/001053906
@@ -2776,6 +2785,8 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001054786
 .ftchinese.com/story/001054925
 .ftchinese.com/story/001055051
+.ftchinese.com/story/001055063
+.ftchinese.com/story/001055069
 .ftchinese.com/story/001055136
 .ftchinese.com/story/001055170
 .ftchinese.com/story/001055202
@@ -2813,17 +2824,20 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001057504
 .ftchinese.com/story/001057509
 .ftchinese.com/story/001057518
+.ftchinese.com/story/001057532
 .ftchinese.com/story/001057533
 .ftchinese.com/story/001057556
 .ftchinese.com/story/001057580
 .ftchinese.com/story/001057638
 .ftchinese.com/story/001057644
+.ftchinese.com/story/001057875
 .ftchinese.com/story/001058009
 .ftchinese.com/story/001058056
 .ftchinese.com/story/001058224
 .ftchinese.com/story/001058257
 .ftchinese.com/story/001058295
 .ftchinese.com/story/001058328
+.ftchinese.com/story/001058339
 .ftchinese.com/story/001058344
 .ftchinese.com/story/001058352
 .ftchinese.com/story/001058413
@@ -2839,6 +2853,7 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001058656
 .ftchinese.com/story/001058665
 .ftchinese.com/story/001058678
+.ftchinese.com/story/001058691
 .ftchinese.com/story/001058721
 .ftchinese.com/story/001058728
 .ftchinese.com/story/001059484
@@ -2848,6 +2863,7 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001059818
 .ftchinese.com/story/001059914
 .ftchinese.com/story/001059920
+.ftchinese.com/story/001059957
 .ftchinese.com/story/001060088
 .ftchinese.com/story/001060156
 .ftchinese.com/story/001060160
@@ -2886,6 +2902,8 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001063763
 .ftchinese.com/story/001063764
 .ftchinese.com/story/001063826
+.ftchinese.com/story/001064127
+.ftchinese.com/story/001064312
 .ftchinese.com/story/001064705
 .ftchinese.com/story/001064807
 .ftchinese.com/story/001065120
@@ -3517,6 +3535,7 @@ hahlo.com
 |http://hk.hao123img.com
 |http://ld.hao123img.com
 ||happy-vpn.com
+.haproxy.org
 ||hardsextube.com
 .harunyahya.com
 |http://harunyahya.com
@@ -3822,6 +3841,8 @@ ifjc.org
 ||igcd.net
 .igfw.net
 ||igfw.net
+.igfw.tech
+||igfw.tech
 .igmg.de
 ||ignitedetroit.net
 .igotmail.com.tw
@@ -4235,6 +4256,7 @@ blog.lester850.info
 .letou.com
 letscorp.net
 ||letscorp.net
+||ss.levyhsu.com
 !69.16.175.42
 ||cdn.assets.lfpcontent.com
 .lhakar.org
@@ -4507,6 +4529,7 @@ minzhuzhanxian.com
 minzhuzhongguo.org
 ||miroguide.com
 mirrorbooks.com
+.mist.vip
 thecenter.mit.edu
 .mitao.com.tw
 .mitbbs.com
@@ -5190,7 +5213,6 @@ api.proxlet.com
 ||proxomitron.info
 .proxpn.com
 ||proxpn.com
-proxy.org
 .proxylist.org.uk
 ||proxylist.org.uk
 .proxypy.net
@@ -5736,6 +5758,7 @@ spem.at
 .ss-link.com
 ||ss-link.com
 .ssglobal.co/wp
+|http://ssglobal.co
 .ssglobal.me
 ||ssh91.com
 .sspro.ml
@@ -5789,6 +5812,7 @@ stickeraction.com/sesawe
 .stormmediagroup.com
 ||stoweboyd.com
 stranabg.com
+||straplessdildo.com
 ||streamingthe.net
 streema.com/tv/NTDTV_Chinese
 cn.streetvoice.com/article
@@ -5932,6 +5956,8 @@ tbswd.org
 .tcewf.org
 tchrd.org
 tcnynj.org
+.tcpspeed.com
+@@||tcpspeed.com
 .tcsofbc.org
 .tcsovi.org
 teamamericany.com
@@ -7302,7 +7328,6 @@ zhengjian
 @@||fonts.gstatic.com
 @@||haosou.com
 @@||ip.cn
-@@||jd.com
 @@||jike.com
 @@|http://translate.google.cn
 @@|http://www.google.cn/maps
@@ -7314,7 +7339,6 @@ zhengjian
 @@||sogou.com
 @@||so.com
 @@||soso.com
-@@||taobao.com
 @@||uluai.com.cn
 @@||weibo.com
 @@||yahoo.cn
