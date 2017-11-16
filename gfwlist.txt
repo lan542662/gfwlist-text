@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: qWq1YQNTB0xd8nlUDyksRw
+! Checksum: ft1gxOlD75+FVqemaSvDjw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 15 Nov 2017 03:21:13 -0500
+! Last Modified: Wed, 15 Nov 2017 22:19:11 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2717,6 +2717,7 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001042272
 .ftchinese.com/story/001042280
 .ftchinese.com/story/001043152
+.ftchinese.com/story/001043189
 .ftchinese.com/story/001043428
 .ftchinese.com/story/001043534
 .ftchinese.com/story/001043680
@@ -2918,6 +2919,7 @@ hk.frienddy.com/hk
 .ftchinese.com/story/001066136
 .ftchinese.com/story/001066140
 .ftchinese.com/story/001066465
+.ftchinese.com/story/001066950
 .ftchinese.com/story/001066959
 .ftchinese.com/story/001067435
 www.ftchinese.com/story/001067479
@@ -2927,12 +2929,14 @@ www.ftchinese.com/story/001067479
 .ftchinese.com/story/001067650
 .ftchinese.com/story/001067680
 .ftchinese.com/story/001067871
+.ftchinese.com/story/001067923
 .ftchinese.com/story/001068248
 .ftchinese.com/story/001068278
 .ftchinese.com/story/001068379
 .ftchinese.com/story/001068483
 .ftchinese.com/story/001068506
 .ftchinese.com/story/001068547
+.ftchinese.com/story/001068616
 .ftchinese.com/story/001068622
 .ftchinese.com/story/001068707
 .ftchinese.com/story/001069373
@@ -2942,6 +2946,7 @@ www.ftchinese.com/story/001067479
 .ftchinese.com/story/001069741
 .ftchinese.com/story/001069861
 .ftchinese.com/story/001069952
+.ftchinese.com/story/001070053
 .ftchinese.com/story/001070177
 .ftchinese.com/story/001070307
 .ftchinese.com/story/001070809
@@ -2994,6 +2999,7 @@ ftchinese.com/story/001071200
 .ftchinese.com/story/001074794
 .ftchinese.com/story/001074822
 .ftchinese.com/story/001074874
+.ftchinese.com/story/001074891
 .ftchinese.com/story/001074918
 .ftchinese.com/tag/%E5%8D%81%E5%85%AB%E5%B1%8A%E4%B8%89%E4%B8%AD%E5%85%A8%E4%BC%9A
 .ftchinese.com/tag/%E6%B8%A9%E5%AE%B6%E5%AE%9D
@@ -7322,6 +7328,7 @@ zhengjian
 @@||khm3.googleapis.com
 @@||khmdb.googleapis.com
 @@||storage.googleapis.com
+@@||update.googleapis.com
 @@||cn.gravatar.com
 @@||connectivitycheck.gstatic.com
 @@||csi.gstatic.com
